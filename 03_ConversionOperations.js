@@ -1,4 +1,4 @@
-let score = "33sda"
+/*let score = "33sda"
 
 console.log(typeof score);
 
@@ -22,4 +22,39 @@ console.log(booleanIsLoggesIn);
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(typeof stringNumber);
+console.log(typeof stringNumber);*/
+
+//*******************Operations*******************
+
+/*let value = 3
+let negValue = -value
+console.log(negValue);*/
+
+// console.log(2+2); add
+// console.log(2-2); subtract
+// console.log(2*2); multiply
+// console.log(2**2); power
+// console.log(2/2); divid
+// console.log(2%2); reaminder/modulus
+
+let str1 = "hello"
+let str2 = "Farman"
+
+let str3 = str1 + str2
+/*console.log(str3);
+
+console.log("1" + 2);
+console.log( 1+ "2");
+console.log("1" + 2 + 2);
+console.log(2 + 2 + "1");
+console.log("1" + [2 + 2]);*/
+
+// console.log(+true);
+// console.log(+"");
+
+let num1, num2, num3
+ num1 = num2 = num3 = 2+2
+
+ let gameCounter = 100
+ ++gameCounter;
+ console.log(gameCounter);
