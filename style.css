@@ -1,8 +1,7 @@
-.box{
-    height: 100px;
-    width: 100px;
-    background-color: navajowhite;
-    border: 1px solid brown;
-    margin: 5px;
-    text-align: center;
+.content{
+    color: red;
+}
+
+.newClass{
+    background-color: lightgreen;
 }

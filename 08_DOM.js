@@ -20,7 +20,7 @@ console.dir(h2.innerText)
 
 h2.innerText = h2.innerHTML + " this is Farman Haris hehe"*/
 
-//Q:- 02
+/*Q:- 02
 let div = document.querySelectorAll(".box");
 
 idx = 1;
@@ -31,4 +31,16 @@ for (div of div) {
 
 // div[0].innerHTML = "Farman Haris";
 // div[1].innerHTML = "Ahtsham Jabbar";
-// div[2].innerHTML = "Saad Ullah Barelvi";
+// div[2].innerHTML = "Saad Ullah Barelvi";*/
+
+//Practice Set 02
+/*Q:- 01
+let newButton = document.createElement("button");
+newButton.innerText = "Click Me";
+newButton.style.backgroundColor = "red";
+newButton.style.color = "white";
+document.querySelector("body").prepend(newButton);*/
+
+//Q:- 02
+let para = document.querySelector(".content");
+para.classList.add("newClass")
